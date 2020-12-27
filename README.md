@@ -1,2 +1,2 @@
 # DiaryBook
-Simple note book
+Very Simple task list
